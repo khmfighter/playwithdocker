@@ -1,6 +1,6 @@
 准备docker-ce和docker-compose环境
 
-docker-ce部分
+##docker-ce部分##
 
 1、依赖安装
 
@@ -22,6 +22,6 @@ systemctl start docker
 
 systemctl enable docker
 
-docker-compose部分
+##docker-compose部分##
 
 使用pip insall docker-compose进行安装
